@@ -10,8 +10,7 @@ const ApprovalCard = props => {
                 <div className="ui basic green button">Approve</div>
                 <div className="ui basic red button">Reject</div>
             </div>
-              <button class="ui blue button">Basic Blue</button>
-              <button class="ui violet button">Basic Violet</button>
+        
         </div>
     </div>
   );
